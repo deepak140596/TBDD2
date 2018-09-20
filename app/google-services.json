@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "130297820737",
+    "firebase_url": "https://tbdd2-397e1.firebaseio.com",
+    "project_id": "tbdd2-397e1",
+    "storage_bucket": "tbdd2-397e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130297820737:android:72c9fba9e0538a77",
+        "android_client_info": {
+          "package_name": "com.sapicons.deepak.tbd2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130297820737-il82trtp4b0ecc88ackqcecg9v2kau2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4WN3to2T7nBxx9aDfgynag9ZkvhEJFCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
